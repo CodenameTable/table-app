@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+}
+
+ul.outer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+li.outer {
+    display: flex;
+    flex-direction: row;
+    border: 0.1rem solid;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+div.outer {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.image {
+    width: 100px;
+    height: 100px;
+    border: 0.1rem solid;
+}

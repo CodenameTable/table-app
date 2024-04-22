@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+
+div.outer {
+    display: flex;
+    justify-content: center;
+}
+
+.left {
+    margin-right: 5rem;
+    border: solid;
+    border-width: 0.1rem 0.1rem 0 0.1rem;
+}
+
+.right {
+    margin-left: 5rem;
+    border: solid;
+    border-width: 0.1rem 0.1rem 0 0.1rem;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto;
+}
+
+td {
+    border: 0.1rem solid;
+}

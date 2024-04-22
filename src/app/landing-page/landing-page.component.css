@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+div {
+    display: inline;
+    border: 0.1rem solid;
+}
+
+a {
+    float: right;
+    border: 0.1rem solid;
+}

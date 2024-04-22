@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+li {
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+}
+
+div {
+    text-align: center;
+}
+
+.image {
+    width: 100px;
+    height: 100px;
+    border: 0.1rem solid;
+}

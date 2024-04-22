@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+}
+
+.col-1 {
+    flex: 40%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.active {
+    background-color: bisque;
+}
+
+.col-1 > div {
+    border-bottom: 0.1rem solid;
+    padding: 1rem;
+}
+
+.col-2 {
+    flex: 60%;
+    text-align: center;
+}
+
+.col-2 > div {
+    margin: auto;
+    padding-top: 2rem;
+}
+
+input {
+    margin-top: 2rem;
+}
+
+div {
+    text-align: center;
+}
+
+#save {
+    display: inline;
+    border: 0.1rem solid;
+    padding-top: 0;
+}

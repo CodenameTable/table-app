@@ -1,0 +1,13 @@
+li {
+    display: inline;
+    border: 0.1rem solid;
+    margin: 0.5rem;
+}
+
+a {
+    color: inherit;
+}
+
+a:hover {
+    cursor: pointer;
+}
